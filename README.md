@@ -1,5 +1,6 @@
 main_salli \
 branch_salli
+import random
 python:
 def kunden_datum():
     eingabe = (input("Bitte geben Sie das Datum ein:"))
